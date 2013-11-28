@@ -1,6 +1,6 @@
 ﻿namespace formularios
 {
-    partial class Form1
+    partial class RegistroPersona
     {
         /// <summary>
         /// Required designer variable.

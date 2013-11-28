@@ -10,11 +10,11 @@ using eventfabric.api;
 
 namespace formularios
 {
-    public partial class Form1 : Form
+    public partial class RegistroPersona : Form
     {
         Client client;
         Response response;
-        public Form1()
+        public RegistroPersona()
         {
             InitializeComponent();
             client = new Client();
