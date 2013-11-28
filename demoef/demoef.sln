@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoef", "demoef.csproj", "{FEBFD7C9-DF1B-4421-B464-75A550B98E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formularios", "..\formularios\formularios.csproj", "{DE576423-B948-4D18-A9C9-8F1AE13A2B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBFD7C9-DF1B-4421-B464-75A550B98E40}.Debug|x86.ActiveCfg = Debug|x86
+		{FEBFD7C9-DF1B-4421-B464-75A550B98E40}.Debug|x86.Build.0 = Debug|x86
+		{FEBFD7C9-DF1B-4421-B464-75A550B98E40}.Release|x86.ActiveCfg = Release|x86
+		{FEBFD7C9-DF1B-4421-B464-75A550B98E40}.Release|x86.Build.0 = Release|x86
+		{DE576423-B948-4D18-A9C9-8F1AE13A2B09}.Debug|x86.ActiveCfg = Debug|x86
+		{DE576423-B948-4D18-A9C9-8F1AE13A2B09}.Debug|x86.Build.0 = Debug|x86
+		{DE576423-B948-4D18-A9C9-8F1AE13A2B09}.Release|x86.ActiveCfg = Release|x86
+		{DE576423-B948-4D18-A9C9-8F1AE13A2B09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
