@@ -1,0 +1,6 @@
+http://www.lavoz.com.ar/rss.xml
+http://www.pagina12.com.ar/diario/rss/ultimas_noticias.xml
+http://cdn01.ib.infobae.com/adjuntos/162/rss/Infobae.xml
+http://lanacion.com.ar.feedsportal.com/ultimasnoticias
+http://cadena3.com/rss/PoliticayEconomia.xml
+http://cadena3.com/rss/Sociedad.xml
